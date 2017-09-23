@@ -1,0 +1,15 @@
+{
+  "name": "query-json",
+  "version": "0.1.0",
+  "description": "Query JSON data quickly and modify delete or add new data",
+  "main": "index.js",
+  "scripts": {
+    "data": "node example.js",
+    "test": "tape test/query.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tape": "^4.8.0"
+  }
+}
